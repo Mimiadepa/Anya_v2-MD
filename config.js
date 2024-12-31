@@ -19,7 +19,7 @@ module.exports = {
     ownername: process.env.OWNER_NUMBER || process.env.Owner_Name || "Pika~Kun",
     ownernumber: process.env.Owner_Number || "916900904828",
     instagramId: process.env.Insta || "3.69_pika",
-
+233544474172
     /**
      * other details and parameters
      */
@@ -30,7 +30,10 @@ module.exports = {
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
-    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",
+    sessionId: process.env.SESSION_ID || "YOUR_SESSION_ID",[12/31, 11:34 AM] Adepa_hair Gh: WImzHi_A_N_Y_A_V_2_Ch6yw4ptvaJecZ
+[12/31, 11:40 AM] Adepa_hair Gh: SlJr_A_N_Y_A_V_2_g6wGOOXHJ07blTPo
+[12/31, 12:56 PM] Adepa_hair Gh: XWTXBkXkJj_A_N_Y_A_V_2_1QORHS8ymJ
+[12/31, 12:58 PM] Adepa_hair Gh: tlCuoianuRnp32_A_N_Y_A_V_2_Vpjevr
 
     
     
